@@ -10,9 +10,7 @@ class OrderSender {
   constructor() {}
 
   send(order) {
-    /**
-     * network request goes here
-     */
+    // process order via network request
   }
 
   handleResponse(response) {

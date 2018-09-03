@@ -24,9 +24,7 @@ class OrderManager {
   }
 
   sendOrder(order) {
-    /**
-     * network request goes here
-     */
+    // process order via network request
   }
 
   handleResponse(response) {

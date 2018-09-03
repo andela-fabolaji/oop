@@ -1,0 +1,2 @@
+# Open/Closed Principle
+States that entities(classes, modules, functions) should be open for extension but closed for modification. This means that we should be able to entend the behaviour of our entities without modifying the underlying code.
