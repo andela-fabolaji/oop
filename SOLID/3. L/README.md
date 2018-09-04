@@ -1,0 +1,2 @@
+# Liskov's substitution principle
+States that subtypes must be substitutable for base types. This implies that when we have a derived class inheriting a method from a parent class, the implementation of such method must be compatible with the base class implementation.
